@@ -1,4 +1,4 @@
 # Github-CI-CD-Lab
 
-#Karsai Zétény
-#Oláh Gergő
+Karsai Zétény
+Oláh Gergő
