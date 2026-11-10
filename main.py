@@ -7,4 +7,4 @@ print(Szorzas(5, 3))
 def osztas(a, b):
     return a / b
 
-print(osztas(10, 0))
+print(osztas(10, 2))
